@@ -1,4 +1,4 @@
-<h2 align="left">💻 Future Back-end Developer<br>📚 I'm currently learning english and Software Engineering<br>🚀</h2>
+<h2 align="left">💻 Future Back-end Developer<br>📚 I'm currently learning english and Software Engineering<br></h2>
 
 ###
 
