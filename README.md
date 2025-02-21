@@ -1,4 +1,4 @@
-<h2 align="left">💻 Future Back-end Developer<br>📚 I'm currently learning english and Software Engineering<br>🎯 Goals: have financial freedom, speak English and marry a blonde🚀</h2>
+<h2 align="left">💻 Future Back-end Developer<br>📚 I'm currently learning english and Software Engineering<br>🚀</h2>
 
 ###
 
