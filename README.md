@@ -53,7 +53,7 @@ const gabriel = {
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Lopes github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&hide_border=true&title_color=00b4d8&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielReis22&layout=compact&hide_border=true&title_color=00b4d8&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 <br/>
@@ -61,7 +61,7 @@ const gabriel = {
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/SEU_USERNAME/SEU_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://github.com/GabrielReis-22/GabrielReis-22/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </div>
 
 <br/>
