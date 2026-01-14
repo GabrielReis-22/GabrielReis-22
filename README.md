@@ -52,8 +52,8 @@ const gabriel = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Lopes github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielReis22&layout=compact&hide_border=true&title_color=00b4d8&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielReis-22&show_icons=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Lopes github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielReis-22&layout=compact&hide_border=true&title_color=00b4d8&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 <br/>
